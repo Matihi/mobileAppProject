@@ -1,3 +1,12 @@
+#Group Members name and Id
+Name.        Id
+1. Abdullah Yousuf UGR/8437/14
+2. Abrham Fantahun UGR/0951/14
+3. Daniel Habtu UGR/7471/14
+4. Emanuel Kibru UGR/1626/14
+5. Hamza Mohammed UGR/6708/14
+6. Natnael Mesfin UGR/1853/14
+   
 # Expense Manager App using Flutter
 
 Expense Manager can track your expenses and even show you last week's per day expenses in a simple chart. Expenses are stored locally in the device using SQLite Database. 
